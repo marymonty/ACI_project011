@@ -19,9 +19,11 @@ So TempleOS only exists in iso files and can only be run off a virtual machine. 
 
 For this repository, I have included videos of me doing some basic things in TempleOS that are the most poem-like, considering this is supposed to be a project on code poetry. I kind of think that literally every key stroke I make or more broadly, every part of TempleOS, is art and poetry if you put it in the context that by using that OS, I am in direct communication with God. 
 But I digress
-video1.mp4 
-video2.mp4
-video3.mp4
+Here are videos of woeful quality, because the lord had to declare that his temple was 640x480 resolution.
+video1.mp4 shows me going into templeOS and first calling the bible <ctrl alt b> which opens up the whole bible split into indices.
+video2.mp4 shows me calling the keyboard short cuts "gods passage" <shift F7>, "gods word" <F7> (which was freaks which made me crack up), and "gods doodle" <shift F6>. (all of these are poems)
+video3.mp4 shows me in one of the mini games called "after egypt". In this game you can go to God and talk to him, as you are his puppet, and with each click he tells an oracle that only Terry Davis can find the meaning in. (I consider this one of the poems too)
+video4.mp4 shows me going into a text file called HappyWords.txt that I will expand on below.
 
 To have something real to turn in however, I searched for the HappyWords.txt online since I don't really have any way to get the files off of the iso files because they are all unable to be unzipped or archived and my external disk drive is a broken piece of garbage. Thankfullly some dedicated githubber had the supplemental files uploaded and I was able to copy over all the Happy Words into a text file. I then read in that text file word by word in a python file and put all the words in a list and printed five of those words at random to create a poem. 
 So you can just look at this as a big file with a lot of dumb words / phrases (also some may be problematic, I didn't read through all the words so if you happen to get a bad word pop up I am very sorry) that make some stupid sounding poem. But in the context I think it's an absolutely whack piece of art. TempleOS is buck wild and I wish we had more time with this project so I could have written this code in HolyC, but with only a week and such tough installation, I had to resort to writing a three minute python code. Maybe one day I will have this poem generator as a HolyC file in my TempleOS Home directory. Just not today.
